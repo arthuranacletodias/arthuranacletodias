@@ -17,10 +17,10 @@
 [<img align="left" alt="Sabesan | Telegram" height="22px" src="./logo/Telegram.png" />][telegram]
   
 <br/>
-
-<p align=left>
 <em>Don't hesitate to get in touch!</em>
-</p>
+<br/>
+
+---
 
 ### Languages and Tools:
 
@@ -32,7 +32,6 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.s
 [<img align="left" alt="Matlab" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"/>][github]
 [<img align="left" alt="Pandas" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"/>][github]
 [<img align="left" alt="PyCharm" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"/>][github]
-
 
 <br />
 <br />
