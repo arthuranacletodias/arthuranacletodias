@@ -17,7 +17,6 @@
 [<img align="left" alt="Sabesan | Telegram" height="22px" src="./logo/Telegram.png" />][telegram]
   
 <br />
-
 <p align=left>
 <em>Don't hesitate to get in touch!</em>
 </p>
