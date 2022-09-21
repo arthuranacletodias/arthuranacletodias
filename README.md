@@ -48,4 +48,3 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.s
 [stackoverflow]: https://pt.stackoverflow.com/users/273096/arthur-anacleto-dias
 [whatsapp]: https://wa.me/+5524981617787
 [telegram]: https://t.me/arthuranacletodias
-
