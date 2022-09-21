@@ -11,10 +11,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Sabesan | LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Sabesan | Stackoverflow" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="Sabesan | Whatsapp" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
-[<img align="left" alt="Sabesan | Telegram" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Sabesan | LinkedIn" height="22px" src="./logo/LinkedIn.png" />][linkedin]
+[<img align="left" alt="Sabesan | Stackoverflow" height="22px" src="./logo/StackOverflow.png" />][stackoverflow]
+[<img align="left" alt="Sabesan | Whatsapp" height="22px" src="./logo/WhatsApp.png" />][whatsapp]
+[<img align="left" alt="Sabesan | Telegram" height="22px" src="./logo/Telegram.png" />][telegram]
   
 <br />
 
