@@ -6,7 +6,7 @@
   
 - 🔭 I’m currently working on IBM, I am a bank, commercial and business maintenance technician
 - 🌱 I’m currently a student determined to be a data scientist 👨‍💻
-- ⚡ Fun fact: I love to play soccer, listen music and games.
+- ⚡ Fun fact: I love to play soccer:soccer:, listen music:headphones: and games:video_game:.
 
 
 ### Connect with me:
@@ -24,27 +24,25 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>][github]
-[<img align="left" alt="Jupyter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png"/>][github]
-[<img align="left" alt="Tensorflow" width="40px" 
+[<img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>][github]
+[<img align="left" alt="Jupyter" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png"/>][github]
+[<img align="left" alt="Tensorflow" width="60px" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>][github]
-[<img align="left" alt="Pytorch" width="40px" src="https://pytorch.org/assets/images/pytorch-logo.png"/>][github]
-[<img align="left" alt="Matlab" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"/>][github]
-[<img align="left" alt="Pandas" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"/>][github]
-[<img align="left" alt="PyCharm" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"/>][github]
-
-<br />
-<br />
+[<img align="left" alt="Pytorch" width="60px" src="https://pytorch.org/assets/images/pytorch-logo.png"/>][github]
+[<img align="left" alt="Pandas" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"/>][github]
+[<img align="left" alt="Matlab" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"/>][github]
+[<img align="left" alt="PyCharm" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"/>][github]
+<br/>
+<br/>
 
 ---
+
 <img align="left" alt="Arthur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arthuranacletodias&show_icons=true&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthuranacletodias&show_icons=true&hide_border=true)](https://github.com/arthuranacletodias)
 
-
-
 [linkedin]: https://www.linkedin.com/in/arthuranacletodias
 [github]:  https://github.com/arthuranacletodias
 [stackoverflow]: https://pt.stackoverflow.com/users/273096/arthur-anacleto-dias
-[whatsapp]: https://wa.me/+5524981617787
+[whatsapp]: https://wa.me/+5524998724264
 [telegram]: https://t.me/arthuranacletodias
