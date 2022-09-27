@@ -29,9 +29,11 @@
 [<img align="left" alt="Tensorflow" width="60px" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>][github]
 [<img align="left" alt="Pytorch" width="60px" src="https://pytorch.org/assets/images/pytorch-logo.png"/>][github]
-[<img align="left" alt="Pandas" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"/>][github]
+[<img align="left" alt="Pandas" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"/>][github]
 [<img align="left" alt="Matlab" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"/>][github]
 [<img align="left" alt="PyCharm" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"/>][github]
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
