@@ -35,9 +35,8 @@
 [<img align="center" alt="PyCharm" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"/>][github]
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
+
+---
 
 
 <img align="right" alt="Arthur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arthuranacletodias&show_icons=true&hide_border=true"/>
