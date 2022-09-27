@@ -34,8 +34,11 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.s
 [<img align="left" alt="PyCharm" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"/>][github]
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 
----
+
 <img align="right" alt="Arthur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arthuranacletodias&show_icons=true&hide_border=true"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthuranacletodias&show_icons=true&hide_border=true)](https://github.com/arthuranacletodias)
