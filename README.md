@@ -2,9 +2,10 @@
 ### Hi there! I'm Arthur Dias, here is my profile 🚀:
 <!--  
   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=arthuranacletodias&left_color=black&right_color=blue&-badge&left_text=Page%20Visitors)
+  - 🔭 I’m currently working on IBM, I am a bank, commercial and business maintenance technician
 -->
   
-- 🔭 I’m currently working on IBM, I am a bank, commercial and business maintenance technician
+
 - 🌱 I’m currently a student determined to be a data scientist 👨‍💻
 - ⚡ Fun fact: I love to play soccer:soccer:, listen music:headphones: and games:video_game:.
 
