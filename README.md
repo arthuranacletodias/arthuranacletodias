@@ -7,7 +7,7 @@
   
 
 - I’m currently a student determined to be a data scientist 👨‍💻
-- Fun fact: I love to play soccer:soccer:, listen music🎧 and games 🎮.
+- Fun fact: I love to play soccer ⚽, listen music🎧 and games 🎮.
 
 
 ### Connect with me:
